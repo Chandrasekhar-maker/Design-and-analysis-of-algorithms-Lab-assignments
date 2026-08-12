@@ -2,7 +2,7 @@
 
 ### Searching Algorithms | C++ Implementation
 
-> **📅 06 August 2026** · **💻 C++** · **🧠 2 Algorithms** · **✅ Completed**
+> **📅 06 August 2026** · **💻 C++** · **🧠 2 Algorithms** ·
 
 ---
 
