@@ -13,6 +13,7 @@ This main README serves as a **central overview and navigation page** for the co
 |  Week  |     Lab Date    | Lab Folder                                                                                                                       | Algorithms Covered           |    Status    |
 | :----: | :-------------: | :------------------------------------------------------------------------------------------------------------------------------- | :--------------------------- | :----------: |
 | **01** | **06 Aug 2026** | [📁 `first_week`](https://github.com/Chandrasekhar-maker/Design-and-analysis-of-algorithms-Lab-assignments/tree/main/first_week) | Linear Search, Binary Search | 🟢 Completed |
+| **02** | **13 Aug 2026** | [📁 `second_week`](https://github.com/Chandrasekhar-maker/Design-and-analysis-of-algorithms-Lab-assignments/tree/main/second_week) | Bst Operations, Kth smallest element, Gp series sum | 🟢 Completed |
 
 ---
 
@@ -24,12 +25,18 @@ DAA-Lab/
 ├── README.md
 ├── .gitignore
 │
-└── first_week/
+├── first_week/
+│   ├── README.md
+│   ├── linear_search.cpp
+│   └── binary_search.cpp
+│
+└── second_week/
     ├── README.md
-    ├── linear_search.cpp
-    └── binary_search.cpp
-```
+    ├──bst_operations.cpp
+    ├──kth_min.cpp
+    └── series.cpp
 
+```
 ---
 
 ## 🧪 Lab Organization
