@@ -10,10 +10,12 @@ This main README serves as a **central overview and navigation page** for the co
 
 ## 📅 Lab Assignment Summary
 
-|  Week  |     Lab Date    | Lab Folder                                                                                                                       | Algorithms Covered           |    Status    |
-| :----: | :-------------: | :------------------------------------------------------------------------------------------------------------------------------- | :--------------------------- | :----------: |
-| **01** | **06 Aug 2026** | [📁 `first_week`](https://github.com/Chandrasekhar-maker/Design-and-analysis-of-algorithms-Lab-assignments/tree/main/first_week) | Linear Search, Binary Search | 🟢 Completed |
-| **02** | **13 Aug 2026** | [📁 `second_week`](https://github.com/Chandrasekhar-maker/Design-and-analysis-of-algorithms-Lab-assignments/tree/main/second_week) | Bst Operations, Kth smallest element, Gp series sum | 🟢 Completed |
+|  Week  |     Lab Date    | Lab Folder                                                                                                                       | Algorithms Covered                                      |    Status    |
+| :----: | :-------------: | :------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------ | :----------: |
+| **01** | **06 Aug 2026** | [📁 `first_week`](https://github.com/Chandrasekhar-maker/Design-and-analysis-of-algorithms-Lab-assignments/tree/main/first_week) | Linear Search, Binary Search                            | 🟢 Completed |
+| **02** | **13 Aug 2026** | [📁 `second_week`](https://github.com/Chandrasekhar-maker/Design-and-analysis-of-algorithms-Lab-assignments/tree/main/second_week) | BST Operations, Kth Smallest Element, GP Series Sum    | 🟢 Completed |
+| **03** | **20 Aug 2026** | [📁 `third_week`](https://github.com/Chandrasekhar-maker/Design-and-analysis-of-algorithms-Lab-assignments/tree/main/third_week) | Tower of Hanoi, Stack, Queue                            | 🟢 Completed |
+| **04** | **27 Aug 2026** | [📁 `fourth_week`](https://github.com/Chandrasekhar-maker/Design-and-analysis-of-algorithms-Lab-assignments/tree/main/fourth_week) | Linear Probing, Quadratic Probing, Two Sum, Frequency Counting | 🟢 Completed |
 
 ---
 
@@ -30,11 +32,24 @@ DAA-Lab/
 │   ├── linear_search.cpp
 │   └── binary_search.cpp
 │
-└── second_week/
+├── second_week/
+│   ├── README.md
+│   ├── bst_operations.cpp
+│   ├── kth_min.cpp
+│   └── series.cpp
+│
+├── third_week/
+│   ├── README.md
+│   ├── tower_of_hanoi.cpp
+│   ├── stack.cpp
+│   └── queue.cpp
+│
+└── fourth_week/
     ├── README.md
-    ├──bst_operations.cpp
-    ├──kth_min.cpp
-    └── series.cpp
+    ├── linear_probing.cpp
+    ├── quadratic_probing.cpp
+    ├── two_sum.cpp
+    └── frequency.cpp
 
 ```
 ---
