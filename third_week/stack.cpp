@@ -55,7 +55,3 @@ int main(){
     s.display();
 
 }
-
-
-
-
