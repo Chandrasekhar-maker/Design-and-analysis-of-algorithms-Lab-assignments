@@ -115,11 +115,3 @@ int main(){
 	cin>>sea;
 	(linear.search(sea)!=-1)?cout<<"element is present at the index "<<linear.search(sea):cout<<"element is not present";
 }
-
-
-
-
-
-
-
-
