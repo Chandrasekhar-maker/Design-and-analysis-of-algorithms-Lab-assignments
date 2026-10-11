@@ -17,6 +17,7 @@ This main README serves as a **central overview and navigation page** for the co
 | **03** | **20 Aug 2026** | [📁 `third_week`](https://github.com/Chandrasekhar-maker/Design-and-analysis-of-algorithms-Lab-assignments/tree/main/third_week)   | Tower of Hanoi, Stack, Queue                                   | 🟢 Completed |
 | **04** | **27 Aug 2026** | [📁 `fourth_week`](https://github.com/Chandrasekhar-maker/Design-and-analysis-of-algorithms-Lab-assignments/tree/main/fourth_week) | Linear Probing, Quadratic Probing, Two Sum, Frequency Counting | 🟢 Completed |
 | **05** | **03 Sep 2026** | [📁 `fifth_week`](https://github.com/Chandrasekhar-maker/Design-and-analysis-of-algorithms-Lab-assignments/tree/main/fifth_week)   | Merge Sort, Quick Sort, Bucket Sort                            | 🟢 Completed |
+| **05** | **10 Sep 2026** | [📁 `sixth_week`](https://github.com/Chandrasekhar-maker/Design-and-analysis-of-algorithms-Lab-assignments/tree/main/sixth_week)   | max and min in array , maxSubarray , matrix multiplication , knapsack problem                             | 🟢 Completed |
 
 ---
 
@@ -53,10 +54,18 @@ DAA-Lab/
 │   └── frequency.cpp
 │
 └── fifth_week/
+|   ├── README.md
+|   ├── bucket_sort.cpp
+|   ├── merge_sort.cpp
+|   ├── quick_sort.cpp
+|
+└── sixth_week_week/
     ├── README.md
-    ├── bucket_sort.cpp
-    ├── merge_sort.cpp
-    ├── quick_sort.cpp
+    ├── maxMin.cpp
+    ├── maxSubaarray.cpp
+    ├── matrix.cpp
+    ├── knapsack.cpp
+
 ```
 
 ---
