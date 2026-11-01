@@ -17,7 +17,13 @@ This main README serves as a **central overview and navigation page** for the co
 | **03** | **20 Aug 2026** | [📁 `third_week`](https://github.com/Chandrasekhar-maker/Design-and-analysis-of-algorithms-Lab-assignments/tree/main/third_week)   | Tower of Hanoi, Stack, Queue                                   | 🟢 Completed |
 | **04** | **27 Aug 2026** | [📁 `fourth_week`](https://github.com/Chandrasekhar-maker/Design-and-analysis-of-algorithms-Lab-assignments/tree/main/fourth_week) | Linear Probing, Quadratic Probing, Two Sum, Frequency Counting | 🟢 Completed |
 | **05** | **03 Sep 2026** | [📁 `fifth_week`](https://github.com/Chandrasekhar-maker/Design-and-analysis-of-algorithms-Lab-assignments/tree/main/fifth_week)   | Merge Sort, Quick Sort, Bucket Sort                            | 🟢 Completed |
-| **05** | **10 Sep 2026** | [📁 `sixth_week`](https://github.com/Chandrasekhar-maker/Design-and-analysis-of-algorithms-Lab-assignments/tree/main/sixth_week)   | max and min in array , maxSubarray , matrix multiplication , knapsack problem                             | 🟢 Completed |
+| **06** | **10 Sep 2026** | [📁 `sixth_week`](https://github.com/Chandrasekhar-maker/Design-and-analysis-of-algorithms-Lab-assignments/tree/main/sixth_week)   | max and min in array , maxSubarray , matrix multiplication , knapsack problem                             | 🟢 Completed |
+| **07** | **17 Sep 2026** | [📁 `Seventh_week`](https://github.com/Chandrasekhar-maker/Design-and-analysis-of-algorithms-Lab-assignments/tree/main/seventh_week)   | kruskhals algorithm , prims algorithm                         | 🟢 Completed |
+| **08** | **8 Oct 2026** | [📁 `Eight_week`](https://github.com/Chandrasekhar-maker/Design-and-analysis-of-algorithms-Lab-assignments/tree/main/eighth_week)   |  HuffmanCode algorithm                         | 🟢 Completed |
+| **09** | **22 Oct 2026** | [📁 `Ninth_week`](https://github.com/Chandrasekhar-maker/Design-and-analysis-of-algorithms-Lab-assignments/tree/main/ninth_week)   |  Floyd warshell algorithm                        | 🟢 Completed |
+| **10** | **29 Oct 2026** | [📁 `tenth_week`](https://github.com/Chandrasekhar-maker/Design-and-analysis-of-algorithms-Lab-assignments/tree/main/tenth_week)   | 0/1 knapsack using dynamic programming                         | 🟢 Completed |
+
+
 
 ---
 
