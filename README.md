@@ -65,12 +65,28 @@ DAA-Lab/
 |   ├── merge_sort.cpp
 |   ├── quick_sort.cpp
 |
-└── sixth_week_week/
+└── sixth_week/
+|   ├── README.md
+|   ├── maxMin.cpp
+|   ├── maxSubaarray.cpp
+|   ├── matrix.cpp
+|   ├── knapsack.cpp
+|
+└── seventh_week/
+|   ├── README.md
+|   ├── kruskhals_algorithm.cpp
+|   ├── prim's_algorithm.cpp
+└── eighth_week/
+|   ├── README.md
+|   ├── huffmanCode.cpp
+|
+└── ninth_week/
+|   ├── README.md
+|   ├── Floyd_warshell.cpp
+|
+└── tenth_week/
     ├── README.md
-    ├── maxMin.cpp
-    ├── maxSubaarray.cpp
-    ├── matrix.cpp
-    ├── knapsack.cpp
+    ├── KnapSack.cpp
 
 ```
 
